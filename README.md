@@ -1,3 +1,3 @@
-# github.io
+# Atif Mustaffa Portfolio using GitHub Pages
 
-``` Test Github.io sfsdf ```
+``` Navigate to [atifmustaffa.github.io](https://atifmustaffa.github.io) to view portfolio page ```
